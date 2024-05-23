@@ -19,7 +19,7 @@
 
  The RPI and BTT Pico are mounted on standoff's and nestle neatly in the back of the printer.
 
- The Nema 14's have been changed to 36mm versions to help with room in the electronics enclosure.
+ The Nema 14's have been changed to 42mm versions to help with room in the electronics enclosure.
 
  The Mini Kirigami Bed is now printed as it is sooo small now, it should be more than stiff enough for the tiny build volume.
 

@@ -23,7 +23,8 @@
 
  The Mini Kirigami Bed is now printed as it is sooo small now, it should be more than stiff enough for the tiny build volume.
 
- Most of the printed parts are standard V0.2r1's - I will add in the Custom print files a little later.
+ > [!NOTE]
+> Most of the printed parts are standard V0.2r1's - I will add in the Custom print files a little later.
 
 $${\color{red}A \space \color{red}BIG \space \color{red}THANKYOU \space \color{red}TO \space \color{red}THE \space \color{cyan}VORON \space \color{red}DESIGN \space \color{red}TEAM \space \color{red}AND \space \color{red}THEIR \space \color{red}AWESOME \space \color{red}WORK}$$
 

@@ -1,4 +1,4 @@
-# Voron_Sub_0-70
+$${\color{red}# Voron_Sub_0-70}$$
  Honey I shrunk the V0!
 
 ![V0 2R1 Sub Zero v62](https://github.com/Driftrotor/Voron_V-SUB_0-70/assets/94327757/c3ed2734-bb66-4afe-bbbc-c02ec33edccb)

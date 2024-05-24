@@ -45,4 +45,4 @@ $${\color{red}SPECIAL \space \color{red}THANX \space \color{red}TO \space \color
 
 https://github.com/livinhack
 
-
+# THIS IS STILL A WORK IN PROGRESS SO SOME FEATURES MIGHT NOT BE FULLY FINALISED YET

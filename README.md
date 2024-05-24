@@ -15,7 +15,7 @@
  It uses MGN7H carriages and a 70mm rail.
  These can be found on Ali express.
 
- The power supply is a AC/DC computer power brick providing 24vdc - 6Amps through a 5.5mm jack plug (where you would normally plug in the mains)
+ The power supply is a AC/DC computer power brick providing 24vdc - 6Amps through a 5.5mm jack plug (where you would normally plug in the mains) Plans are afoot to have an integrated power supply and mini mains plug!
 
  The RPI and BTT Pico are mounted on standoff's and nestle neatly in the back of the printer.
 

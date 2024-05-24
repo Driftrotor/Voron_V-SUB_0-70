@@ -1,7 +1,7 @@
 # Voron_Sub_0-70
  Honey I shrunk the V0!
 
-![V0 2R1 Sub Zero v56](https://github.com/Driftrotor/Voron_V-SUB_0-70/assets/94327757/f23d13ec-6e40-4767-b780-a105ad477cfc)
+![V0 2R1 Sub Zero v62](https://github.com/Driftrotor/Voron_V-SUB_0-70/assets/94327757/c3ed2734-bb66-4afe-bbbc-c02ec33edccb)
 
 ![V0 2R1 + Sub 0 - Master Assembly v2](https://github.com/Driftrotor/Voron_V-SUB_0-70/assets/94327757/0494c63b-297e-492f-a44c-6f231fd8777a)
 

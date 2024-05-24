@@ -41,7 +41,7 @@ https://github.com/christophmuellerorg/voron_0_kirigami_bed
 
 https://github.com/hartk1213
 
-$${\color{red}Red}$$ SPECIAL THANX TO LIVINHACK WHO COLABORATED IN THIS PROJECT AND HELPED GIVE FINAL TOUCHES AND SOME AWESOME MODS!
+$${\color{red}SPECIAL THANX TO LIVINHACK WHO COLABORATED IN THIS PROJECT AND HELPED GIVE FINAL TOUCHES AND SOME AWESOME MODS!}$$
 
 https://github.com/livinhack
 

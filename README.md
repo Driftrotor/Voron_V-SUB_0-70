@@ -25,7 +25,7 @@
 
  Most of the printed parts are standard V0.2r1's - I will add in the Custom print files a little later.
 
- A BIG THANK YOU TO THE VORON TEAM AND THEIR AWESOME WORK
+$${\color{red}A \space \color{red}BIG \space \color{red}THANKYOU \space \color{red}TO \space \color{red}THE \space \color{cyan}VORON \space \color{red}DESIGN \space \color{red}TEAM \space \color{red}AND \space \color{red}THEIR \space \color{red}AWESOME \space \color{red}WORK}$$
 
  Links to original source material
 
@@ -46,5 +46,3 @@ $${\color{red}SPECIAL \space \color{red}THANX \space \color{red}TO \space \color
 https://github.com/livinhack
 
 
-- ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) `#c5f015`
-- ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `#1589F0`

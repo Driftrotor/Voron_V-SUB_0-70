@@ -41,7 +41,7 @@ https://github.com/christophmuellerorg/voron_0_kirigami_bed
 
 https://github.com/hartk1213
 
-- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `SPECIAL THANX TO LIVINHACK WHO COLABORATED IN THIS PROJECT AND HELPED GIVE FINAL TOUCHES AND SOME AWESOME MODS!`
+- SPECIAL THANX TO LIVINHACK WHO COLABORATED IN THIS PROJECT AND HELPED GIVE FINAL TOUCHES AND SOME AWESOME MODS!
 
 https://github.com/livinhack
 

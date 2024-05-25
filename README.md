@@ -1,9 +1,11 @@
 # Voron_Sub_0-70
  $${\color{cyan}Honey \space \color{cyan}I \space \color{cyan}shrunk \space \color{cyan}the \space \color{cyan}V0!}$$
 
-![V0 2R1 Sub Zero v62](https://github.com/Driftrotor/Voron_V-SUB_0-70/assets/94327757/c3ed2734-bb66-4afe-bbbc-c02ec33edccb)
+![Render-1](https://github.com/Driftrotor/Voron_V-SUB_0-70/assets/91290219/a6d25ce9-4ca0-4931-be96-a79d75af69a9)
 
-![V0 2R1 + Sub 0 - Master Assembly v2](https://github.com/Driftrotor/Voron_V-SUB_0-70/assets/94327757/0494c63b-297e-492f-a44c-6f231fd8777a)
+
+![Render-2](https://github.com/Driftrotor/Voron_V-SUB_0-70/assets/91290219/c8920176-cbb8-4d4b-a38c-5cadf6a56cdc)
+
 
  This is my own version of the Famous Voron Sub 0 created by ICARUS from the Voron Design Team.
  After seeing it on a Video at the RMRRF I knew i had to build one, but as this was a showcase build for the RMRRF stall there was no CAD anywhere for it.

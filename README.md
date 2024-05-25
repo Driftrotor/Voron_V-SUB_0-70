@@ -5,7 +5,7 @@
 
 ![V0 2R1 + Sub 0 - Master Assembly v2](https://github.com/Driftrotor/Voron_V-SUB_0-70/assets/94327757/0494c63b-297e-492f-a44c-6f231fd8777a)
 
- This is my own version of the Famous Voron Sub 0 created by Icarus from the Voron Design Team.
+ This is my own version of the Famous Voron Sub 0 created by ICARUS from the Voron Design Team.
  After seeing it on a Video at the RMRRF I knew i had to build one, but as this was a showcase build for the RMRRF stall there was no CAD anywhere for it.
  So that led me to create my own CAD and work on getting all the small details done to make it as complete a build as possible.
 
@@ -15,7 +15,7 @@
  It uses MGN7H carriages and a 70mm rail.
  These can be found on Ali express.
 
- The power supply is a AC/DC computer power brick providing 24vdc - 6Amps through a 5.5mm jack plug (where you would normally plug in the mains)
+ The power supply is a AC/DC computer power brick providing 24vdc - 6Amps through a 5.5mm jack plug (where you would normally plug in the mains) Plans are afoot to have an integrated power supply and mini mains plug!
 
  The RPI and BTT Pico are mounted on standoff's and nestle neatly in the back of the printer.
 
@@ -42,7 +42,9 @@ https://github.com/christophmuellerorg/voron_0_kirigami_bed
 
 https://github.com/hartk1213
 
-$${\color{red}SPECIAL \space \color{red}THANX \space \color{red}TO \space \color{cyan}LIVINHACK \space \color{red}WHO \space \color{red}COLLABORATED \space \color{red}IN \space \color{red}THIS \space \color{red}PROJECT \space \color{red}AND \space \color{red}HELPED \space \color{red}GIVE \space \color{red}FINAL \space \color{red}TOUCHES \space \color{red}AND \space \color{red}SOME \space \color{red}AWESOME \space \color{red}MODS}$$
+$${\color{red}SPECIAL \space \color{red}THANX \space \color{red}TO \space \color{cyan}LIVINHACK \space \color{red}WHO \space \color{red}COLLABORATED \space \color{red}IN \space \color{red}THIS \space \color{red}PROJECT \space \color{red}AND \space \color{red}HELPED \space \color{red}GIVE}$$
+
+$${\color{red}FINAL \space \color{red}TOUCHES \space \color{red}AND \space \color{red}SOME \space \color{red}AWESOME \space \color{red}MODS}$$
 
 https://github.com/livinhack
 

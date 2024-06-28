@@ -51,3 +51,17 @@ $${\color{red}FINAL \space \color{red}TOUCHES \space \color{red}AND \space \colo
 https://github.com/livinhack
 
 # THIS IS STILL A WORK IN PROGRESS SO SOME FEATURES MIGHT NOT BE FULLY FINALISED YET
+
+CHANGE LOG
+
+Main CAD updated - new electronic mount for more secure fixing and optimised possition
+
+Standard V0 STL's corrected to only show needed parts
+
+Custom Sub 0 STL's added - These parts are required to build your Sub 0
+
+Klipper Expander Mount Updated - USB Cable cut out added
+
+Belted Z Mod added to Mod folder
+
+Some STL's added to Mods in Mods Folder

@@ -5,6 +5,4 @@
 | Mains Inlet Foot (Alternative DC Plug) | Stealth Skirts | V0.2R1 Sub Zero Double Shear AB Motor Mounts |
 | [![Mains_Inlet_Foot_(Alternative_DC_Plug)](https://github.com/Driftrotor/Voron_V-SUB_0-70/assets/91290219/e7227823-e520-4ba0-b0d0-ba8c8d8546ea)](https://github.com/Driftrotor/Voron_V-SUB_0-70/tree/main/MODS/Mains_Inlet_Foot_(Alternative_DC_Plug)) | [![Stealth_Skirts](https://github.com/Driftrotor/Voron_V-SUB_0-70/assets/91290219/af790987-7f46-46cf-8d77-5315eea8002e)](https://github.com/Driftrotor/Voron_V-SUB_0-70/tree/main/MODS/Stealth_Skirts) | [![V0_2R1_Sub_Zero_Double_Shear_AB_Motor_Mounts](https://github.com/Driftrotor/Voron_V-SUB_0-70/assets/91290219/d0dfb2ae-4976-4a14-89c3-2eaeb4a246de)](https://github.com/Driftrotor/Voron_V-SUB_0-70/tree/main/MODS/V0_2R1_Sub_Zero_Double_Shear_AB_Motor_Mounts) |
 | Z Motor Assembly more space | | |
-| [![Z_Motor_Assembly_more_space](https://github.com/Driftrotor/Voron_V-SUB_0-70/assets/91290219/0fce7037-684a-4299-b6c5-c561dcdaff74)](https://github.com/Driftrotor/Voron_V-SUB_0-70/tree/main/MODS/Z_Motor_Assembly_more_space) | | |
-
-
+| [![Z-Belt](https://github.com/Driftrotor/Voron_V-SUB_0-70/assets/91290219/3c1d115b-377b-4f05-bee0-6d3107da52ea)](https://github.com/Driftrotor/Voron_V-SUB_0-70/tree/main/MODS/Z_Belt) | [![Z_Motor_Assembly_more_space](https://github.com/Driftrotor/Voron_V-SUB_0-70/assets/91290219/0fce7037-684a-4299-b6c5-c561dcdaff74)](https://github.com/Driftrotor/Voron_V-SUB_0-70/tree/main/MODS/Z_Motor_Assembly_more_space) | |

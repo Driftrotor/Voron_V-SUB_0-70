@@ -15,7 +15,7 @@
  coming in at a whopping 42 x 42 x 42mm
 
  It uses MGN7H carriages and a 70mm rail.
- These can be found on Ali express.
+ These can be found on Ali express. - Link in the BOM
 
  The power supply is a AC/DC computer power brick providing 24vdc - 6Amps through a 5.5mm jack plug (where you would normally plug in the mains) Plans are afoot to have an integrated power supply and mini mains plug!
 

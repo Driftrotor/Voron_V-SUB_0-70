@@ -6,7 +6,7 @@
 
 ![Render-2](https://github.com/Driftrotor/Voron_V-SUB_0-70/assets/91290219/c8920176-cbb8-4d4b-a38c-5cadf6a56cdc)
 
- After seeing SUB 0 on a Video at the RMRRF I knew i had to build one! Tgis led me down the rabit hole of creating the CAD work to make the build possible and for others to also enjoy.
+ After seeing SUB 0 on a Video at the RMRRF I knew i had to build one! THis led me down the rabit hole of creating the CAD work to make the build possible and for others to also enjoy.
  
  For this I chose to go slightly bigger with the build volume
  coming in at a whopping 42 x 42 x 42mm
@@ -25,11 +25,13 @@
  > [!NOTE]
 > Most of the printed parts are standard V0.2r1's - Custom parts have been added to a separate folder.
 
-A BIG THANKYOU TO THE VORON DESIGN TEAM AND THEIR AWESOME WORK
+A BIG THANKYOU TO THE VORON DESIGN TEAM AND THEIR AWESOME WORK AND TO ICARUS FOR STARTING THE WHOLE THING!
+
+
+Links to original source material
 
 ----
-Links to original source material
-----
+
 https://www.youtube.com/watch?v=Xj9trzbbwb8
 
 https://github.com/VoronDesign/Voron-0

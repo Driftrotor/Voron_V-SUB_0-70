@@ -1,16 +1,13 @@
 # Voron_Sub_0-70
- $${\color{cyan}Honey \space \color{cyan}I \space \color{cyan}shrunk \space \color{cyan}the \space \color{cyan}V0!}$$
+
+# HONEY I SHRUNK THE V0!
 
 ![Render-1](https://github.com/Driftrotor/Voron_V-SUB_0-70/assets/91290219/a6d25ce9-4ca0-4931-be96-a79d75af69a9)
 
-
 ![Render-2](https://github.com/Driftrotor/Voron_V-SUB_0-70/assets/91290219/c8920176-cbb8-4d4b-a38c-5cadf6a56cdc)
 
-
- This is my own version of the Famous Voron Sub 0 created by ICARUS from the Voron Design Team.
- After seeing it on a Video at the RMRRF I knew i had to build one, but as this was a showcase build for the RMRRF stall there was no CAD anywhere for it.
- So that led me to create my own CAD and work on getting all the small details done to make it as complete a build as possible.
-
+ After seeing SUB 0 on a Video at the RMRRF I knew i had to build one! Tgis led me down the rabit hole of creating the CAD work to make the build possible and for others to also enjoy.
+ 
  For this I chose to go slightly bigger with the build volume
  coming in at a whopping 42 x 42 x 42mm
 
@@ -28,10 +25,11 @@
  > [!NOTE]
 > Most of the printed parts are standard V0.2r1's - Custom parts have been added to a separate folder.
 
-$${\color{red}A \space \color{red}BIG \space \color{red}THANKYOU \space \color{red}TO \space \color{red}THE \space \color{cyan}VORON \space \color{red}DESIGN \space \color{red}TEAM \space \color{red}AND \space \color{red}THEIR \space \color{red}AWESOME \space \color{red}WORK}$$
+A BIG THANKYOU TO THE VORON DESIGN TEAM AND THEIR AWESOME WORK
 
- Links to original source material
-
+----
+Links to original source material
+----
 https://www.youtube.com/watch?v=Xj9trzbbwb8
 
 https://github.com/VoronDesign/Voron-0
@@ -44,13 +42,11 @@ https://github.com/christophmuellerorg/voron_0_kirigami_bed
 
 https://github.com/hartk1213
 
-$${\color{red}SPECIAL \space \color{red}THANX \space \color{red}TO \space \color{cyan}LIVINHACK \space \color{red}WHO \space \color{red}COLLABORATED \space \color{red}IN \space \color{red}THIS \space \color{red}PROJECT \space \color{red}AND \space \color{red}HELPED \space \color{red}GIVE}$$
-
-$${\color{red}FINAL \space \color{red}TOUCHES \space \color{red}AND \space \color{red}SOME \space \color{red}AWESOME \space \color{red}MODS}$$
+SPECIAL THANX TO LIVINHACK WHO COLLABORATED IN MAKING SUB 0 AND SOME AWESOME MODS!
 
 https://github.com/livinhack
 
-# THIS IS STILL A WORK IN PROGRESS SO SOME FEATURES MIGHT NOT BE FULLY FINALISED YET
+----
 
 CHANGE LOG
 
